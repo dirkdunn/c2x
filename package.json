@@ -1,0 +1,48 @@
+{
+  "name": "c2x",
+  "version": "1.0.2",
+  "description": "A simple CLI tool for converting a CSS selector to XPath",
+  "main": "c2x.js",
+  "dependencies": {
+    "css-to-xpath": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xpath",
+    "css",
+    "convert"
+  ],
+  "preferGlobal": "true",
+  "bin": {
+    "c2x": "lib/c2x.js"
+  },
+  "author": {
+    "name": "dirkdunn"
+  },
+  "license": "BSD",
+  "_id": "c2x@1.0.2",
+  "_shasum": "316903cf0e59f810b5c71f653706e5ffa46c1d7e",
+  "_from": "c2x@",
+  "_npmVersion": "2.7.4",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "dirkdunn",
+    "email": "dirkdunn91@gmail.com"
+  },
+  "dist": {
+    "shasum": "316903cf0e59f810b5c71f653706e5ffa46c1d7e",
+    "tarball": "http://registry.npmjs.org/c2x/-/c2x-1.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "dirkdunn",
+      "email": "dirkdunn91@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/c2x/-/c2x-1.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
