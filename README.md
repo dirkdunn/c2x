@@ -5,14 +5,12 @@ Install:
 ```$ npm install -g c2x ```
 
 Run:
-
 ```
 $ c2x .class
-  XPATH:  .//*[contains(concat(' ', normalize-space(./@class), ' '), ' class ')]
+XPATH:  .//*[contains(concat(' ', normalize-space(./@class), ' '), ' class ')]
 ```
 
 Or:
-
 ```
 $ c2x
 Welcome to the C2X CLI tool for converting CSS to XPATH :)
@@ -30,11 +28,9 @@ Insert valid CSS selector:
 Invalid css selector! try again!
 
 Insert valid CSS selector:
-
 quit
 
 Bye n00b
-
 ```
 
 
